@@ -5,6 +5,12 @@ This is a collection of notes taken from the David Harvey's lectures on Capital.
 
 The link to the videos can be found [here](http://davidharvey.org/2008/07/marxs-capital-class-06/)
 
+---
+### [Introduction]()
+
+### [Notes Chapters 1-2]()
+
+### [Notes Chapters 3]()
 
 ### [Notes Chapters 4-6](http://nbviewer.ipython.org/github/nejohnson2/Marx-Capital/blob/master/Ch_4-6/Ch_4-6.ipynb)
 
