@@ -6,20 +6,33 @@ This is a collection of notes taken from the David Harvey's lectures on Capital.
 The link to the videos can be found [here](http://davidharvey.org/2008/07/marxs-capital-class-06/)
 
 ---
-### [Introduction]()
+### Introduction
 
-### [Notes Chapters 1-2]()
+### Chapters 1-2
+- The Commodity
+- The Process of Exchange
 
-### [Notes Chapters 3]()
+### Chapters 3
+- Money, or the Circulation of Commodities
 
-### [Notes Chapters 4-6](http://nbviewer.ipython.org/github/nejohnson2/Marx-Capital/blob/master/Ch_4-6/Ch_4-6.ipynb)
+### [Chapters 4-6](http://nbviewer.ipython.org/github/nejohnson2/Marx-Capital/blob/master/Ch_4-6/Ch_4-6.ipynb)
+- The General Formula
+- Contradictions in the General Formula
+- The Sale and Purchase of Labour-Power
 
-### [Notes Chapters 7-9](http://nbviewer.ipython.org/github/nejohnson2/Marx-Capital/blob/master/Ch_7-9/Ch_7-9.ipynb)
+### [Chapters 7-9](http://nbviewer.ipython.org/github/nejohnson2/Marx-Capital/blob/master/Ch_7-9/Ch_7-9.ipynb)
+- The Labour Process and the Valorization Process
+- Constant Capital and Variable Capital
+- The Rate of Surplus-Value
 
-### [Notes Chapters 10-11](http://nbviewer.ipython.org/github/nejohnson2/Marx-Capital/blob/master/Ch_10-11/Ch_10-11.ipynb)
+### [Chapters 10-11](http://nbviewer.ipython.org/github/nejohnson2/Marx-Capital/blob/master/Ch_10-11/Ch_10-11.ipynb)
+- The Working Day
+- The Rate and Mass of Surplus-Value
 
-### [Notes Chapters 12-14](http://nbviewer.ipython.org/github/nejohnson2/Marx-Capital/blob/master/Ch_12-14/Ch_12-14.ipynb)
+### [Chapters 12-14](http://nbviewer.ipython.org/github/nejohnson2/Marx-Capital/blob/master/Ch_12-14/Ch_12-14.ipynb)
+- The Concept of Relative Surplus-Value
+- Co-operation
+- The Division of Labour and Manufacture
 
-### [Notes Chapters 15 Part I](http://nbviewer.ipython.org/github/nejohnson2/Marx-Capital/blob/master/Ch_15/Ch_15.ipynb)
-
-### [Notes Chapters 15 Part II](http://nbviewer.ipython.org/github/nejohnson2/Marx-Capital/blob/master/Ch_15/Ch_15_part_2.ipynb)
+### Chapters 15 [Part I](http://nbviewer.ipython.org/github/nejohnson2/Marx-Capital/blob/master/Ch_15/Ch_15.ipynb) [Part II](http://nbviewer.ipython.org/github/nejohnson2/Marx-Capital/blob/master/Ch_15/Ch_15_part_2.ipynb)
+- Machinery and Large-Scale Industry
